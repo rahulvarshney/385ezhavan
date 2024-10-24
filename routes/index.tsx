@@ -33,7 +33,7 @@ export default function Home(props: PageProps<[string, string][]>) {
         <title>385 EZ Havan</title>
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
-        <h1 class="text-xl">Denopaste</h1>
+        <h1 class="text-xl">385 EZ Havan</h1>
         <form action="/" method="post" class="flex flex-col">
           <textarea name="content" class="border mt-4"></textarea>
           <button type="submit" class="bg-gray-200">Submit</button>
