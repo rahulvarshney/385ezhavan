@@ -30,7 +30,7 @@ export default function Home(props: PageProps<[string, string][]>) {
   return (
     <>
       <Head>
-        <title>Denopaste</title>
+        <title>385 EZ Havan</title>
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
         <h1 class="text-xl">Denopaste</h1>
